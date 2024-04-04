@@ -13,9 +13,9 @@ module.exports = {
   i18n,
   images: {
     domains: [
-      'localhost',
-      '127.0.0.1',
-      '127.0.0.1:8000',
+      'api.dz-gen.com',
+      '139.99.90.231',
+      '139.99.90.231:8000',
       'maps.googleapis.com',
       's3.amazonaws.com',
       'pixarlaravel.s3.ap-southeast-1.amazonaws.com',

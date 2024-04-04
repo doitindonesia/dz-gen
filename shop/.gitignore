@@ -49,3 +49,5 @@ vercel.multilang.prod.json
 # IDE
 .idea/
 vercel.demo.json
+
+.vercel
